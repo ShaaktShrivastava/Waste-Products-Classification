@@ -1,0 +1,5 @@
+# Saved model
+*.keras
+
+# Dataset (downloaded automatically by the notebook)
+o-vs-r-split/
